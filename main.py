@@ -2,9 +2,7 @@
 
 def main(msg):
 
-    // Adding a different com
-    // Adding the second comment to this file.
-    // print a message
- print(msg)
-
+    // No longer need COMMENTS HERE
+def secondary():
+    print ("New fuction") 
 main("Hello People")
